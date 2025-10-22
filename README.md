@@ -1,4 +1,3 @@
-<img width="1080" height="545" alt="image" src="https://github.com/user-attachments/assets/e3584b0f-fc82-427c-a314-c0b925c8c772" /><img width="1599" height="1020" alt="image" src="https://github.com/user-attachments/assets/8fc848b5-09d6-4e1d-9ae8-b032be1c9eb8" /># EXP-3
 EXPT NO: 3				STAIR CASE WIRING                     
 
  

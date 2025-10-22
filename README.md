@@ -1,4 +1,4 @@
-# EXP-3
+<img width="1080" height="545" alt="image" src="https://github.com/user-attachments/assets/e3584b0f-fc82-427c-a314-c0b925c8c772" /><img width="1599" height="1020" alt="image" src="https://github.com/user-attachments/assets/8fc848b5-09d6-4e1d-9ae8-b032be1c9eb8" /># EXP-3
 EXPT NO: 3				STAIR CASE WIRING                     
 
  
@@ -40,11 +40,18 @@ switch2.
 
 
 Direct connection: CIRCUIT DIAGRAM: 
+<img width="1600" height="1051" alt="image" src="https://github.com/user-attachments/assets/e16e7c97-6f4a-424f-9923-3c6a1cd1ff6b" />
+<img width="1080" height="541" alt="image" src="https://github.com/user-attachments/assets/6428f734-53ca-4572-b73c-6a84021f7ee6" />
+
+ Cross connection: CIRCUIT DIAGRAM
+ <img width="1599" height="1020" alt="image" src="https://github.com/user-attachments/assets/ada256ea-324e-4e88-bfd7-7066087b295d" />
+<img width="1080" height="545" alt="image" src="https://github.com/user-attachments/assets/2536271a-9e7f-41fe-996a-e398f6feb5ce" />
+
 Tabulation:1
-	
-Cross connection: CIRCUIT DIAGRAM:
+<img width="1600" height="1407" alt="image" src="https://github.com/user-attachments/assets/1a470163-9fef-4737-ba43-f49dc0dd47a1" />
 
 Tabulation:2
+<img width="1600" height="535" alt="image" src="https://github.com/user-attachments/assets/e7b33c76-dac3-4824-8922-935e323acff8" />
 
 RESULT:
 Thus the staircase wiring is connected and tested.
